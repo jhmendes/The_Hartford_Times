@@ -4,4 +4,4 @@ This was a responsive website I built through Udacitys Responsive Web Design cou
 
 # Visit the site here:
 
-https://jhmendes.github.io/responsive_fluid_layout_site/
+https://jhmendes.github.io/The_Hartford_Times/
